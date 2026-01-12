@@ -16,3 +16,7 @@ En una carpeta vamos a crear dos archivos html con un producto cada pagina
 Crear los enlaces para navegar a todas la paginas, usando rutas relativas
 
 ## Imagenes
+
+## Audio, video e iframes
+
+## Tablas
