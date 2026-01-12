@@ -1,1 +1,9 @@
 # HTML Imágenes
+
+## Cambiar de repositorio
+
+```shell
+git remote set-url origin NUEVA_URL
+```
+
+## Imagenes
